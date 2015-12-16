@@ -1,1 +1,8 @@
-i'm not a professional photographer but i guess i'll learn if i keep this up. should probably get a tripod as soon as possible
+I'm not a professional photographer but I'll probably learn if I keep this up.
+
+All photos are taken in Norway near Oslo unless stated otherwise. No editing except cropping and maybe resizing is done.
+
+TODO:
+    Get a tripod as soon as possible
+    Maybe provide lighting info and overall be more consistent
+    
